@@ -10,5 +10,5 @@ package dto;
  * @author butterlfy
  */
 public class PersonaDTO {
-    
+    private int id;
 }
